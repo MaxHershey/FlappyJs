@@ -1,6 +1,8 @@
 # FlappyJs
 Help JavaScript dodge all the frameworks and libraries coming at it!
 
+![alt text](https://github.com/MaxHershey/FlappyJs/screenshot.png "Screenshot")
+
 ## Flapy Bird Clone
 This game is a simple flappy bird clone created as a learning process.
 
