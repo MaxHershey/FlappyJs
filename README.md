@@ -1,7 +1,7 @@
 # FlappyJs
 Help JavaScript dodge all the frameworks and libraries coming at it!
 
-## Flapy Bird Clone
+## Flappy Bird Clone
 This game is a simple flappy bird clone created as a learning process.
 
 ## Technologies Used
