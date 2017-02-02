@@ -36,7 +36,7 @@ var mainState = {
         // Here we set up the game, display sprites, etc.
 
         // Change the background color of the game to blue
-        game.stage.backgroundColor = '#ddd';
+        game.stage.backgroundColor = '#b9feff';
 
         this.jumpSound = game.add.audio('jump');
         this.gameOverSound = game.add.audio('gameover');
